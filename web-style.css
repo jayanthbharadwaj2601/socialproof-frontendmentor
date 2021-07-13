@@ -23,7 +23,7 @@ body
     {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 20px;
     }
     #s1
     {
@@ -52,7 +52,7 @@ body
     {
         display: flex;
         flex-direction: column;
-        gap: 10px;
+        gap: 20px;
     }
     .part1
     {
